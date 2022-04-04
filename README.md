@@ -5,4 +5,4 @@ Install:
 
 1.Download the script file to /root/
 
-2.echo "*/15 * * * * /root/checkbandwidth.sh" >> /var/spool/cron/root
+2.echo "*/30 * * * * /root/checkbandwidth.sh" >> /var/spool/cron/root
